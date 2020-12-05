@@ -1,0 +1,12 @@
+C:\Users\dell-pc\Desktop\Test\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\dell-pc\Desktop\Test\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\dell-pc\Desktop\Test\ClassLibrary1\obj\Debug\REWL.csprojAssemblyReference.cache
+C:\Users\dell-pc\Desktop\Test\ClassLibrary1\obj\Debug\REWL.csproj.CoreCompileInputs.cache
+C:\Users\dell-pc\Desktop\Test\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\dell-pc\Desktop\Test\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\dell-pc\Desktop\GraphicsEngine\REWL\bin\Debug\REWL.dll
+C:\Users\dell-pc\Desktop\GraphicsEngine\REWL\bin\Debug\REWL.pdb
+C:\Users\dell-pc\Desktop\GraphicsEngine\REWL\obj\Debug\REWL.csprojAssemblyReference.cache
+C:\Users\dell-pc\Desktop\GraphicsEngine\REWL\obj\Debug\REWL.csproj.CoreCompileInputs.cache
+C:\Users\dell-pc\Desktop\GraphicsEngine\REWL\obj\Debug\REWL.dll
+C:\Users\dell-pc\Desktop\GraphicsEngine\REWL\obj\Debug\REWL.pdb
